@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "author": "John Doe"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Nice post!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Thanks for sharing!",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "John Doe"
+  },
+  "employees": [
+    {
+      "id": "93d6",
+      "firstName": "Priyanshu",
+      "lastName": "Tyagi",
+      "email": "priyanshu9758503581@gmail.com",
+      "dob": "2024-08-13T18:30:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "i2k2",
+      "experience": 4,
+      "package": 6
+    }
+  ]
+}
